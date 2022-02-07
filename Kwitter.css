@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    color: blue;
+}
+button{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+}
+input{
+    background-color: aqua;
+    color: cornflowerblue;
+}
